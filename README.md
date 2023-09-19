@@ -6,7 +6,7 @@
 - Possuo conhecimento nas linguagens JavaScript, PHP e Java, , bem como MySql e PostgresSql.
 - Experiência com serviços AWS, arquitetura serverless e Docker.
 
-<img src="https://github-readme-stats.vercel.app/api?username=ThiagoCMAraujo" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chucrutes" height="200"/>
 
 > Acompanhe meu portfólio de projetos. Contato: tmelo387@gmail.com
 
