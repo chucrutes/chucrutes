@@ -2,9 +2,12 @@
 
 - Graduando em Engenharia de Software na Universidade Federal do Pampa - _Campus_ Alegrete.
 - Atualmente atuo como voluntário no projeto [PMST](https://github.com/ProjetoPM/PMST) (Project Management Software Tool).
+- E também sou desenvolvedor pela [Teasy Solutions](https://github.com/teasy-solutions) 
 - Tendo interesses nas áreas de Banco de Dados, Processo e Qualidade de Software e Desenvolvimento back-end.
-- Possuo conhecimento nas linguagens JavaScript, PHP e Java, , bem como MySql e PostgresSql.
+- Possuo conhecimento nas linguagens JavaScript e TypeScript, PHP e Java, bem como MySql, PostgresSql e NoSql.
 - Experiência com serviços AWS, arquitetura serverless e Docker.
+- Atualmente em contato com flutter, realizando integração para pagamentos via maquininha android.
+- 📚 Buscando conhecimentos em clean architecture e princípios SOLID.
 
 <img src="https://github-readme-stats.vercel.app/api?username=chucrutes" height="200"/>
 
