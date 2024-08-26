@@ -6,7 +6,7 @@
 - I have a greater interest at topics related to Database, Software Quality Management and Backend development.
 - I've experience in JavaScript TypeScript, PHP, Java. I have experience also in PostgresSql, MySql and NoSql.
 - I'm familiar with AWS services, serverless architecture and Docker.
-- At the moment, I'm in contact with flutter, integrating a android payment terminal.
+- At the moment, I'm in contact with flutter, integrating an android payment terminal.
 - Atualmente em contato com flutter, realizando integração para pagamentos via maquininha android.
 - 📚 Studying clean architecture and SOLID principles.
 
