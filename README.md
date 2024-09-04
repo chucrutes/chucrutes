@@ -12,7 +12,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=chucrutes" height="200"/>
 
-> You can find me at tmelo387@gmail
+> You can find me at tmelo387@gmail.com
 
 #### My Social Medias:
 - <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" height="30"/> - [@melothiagoo](https://www.instagram.com/melothiagoo/)
