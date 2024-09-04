@@ -6,9 +6,9 @@
 - I have a greater interest at topics related to Database, Software Quality Management and Backend development.
 - I've experience in JavaScript TypeScript, PHP, Java. I have experience also in PostgresSql, MySql and NoSql.
 - I'm familiar with AWS services, serverless architecture and Docker.
-- At the moment, I'm in contact with flutter, integrating an android payment terminal.
-- Atualmente em contato com flutter, realizando integração para pagamentos via maquininha android.
+- I’ve worked on a Flutter project where I integrated a mobile payment terminal with Sitef.
 - 📚 Studying clean architecture and SOLID principles.
+- Currently working on a project management software based on the [PMBOK](https://www.pmi.org/pmbok-guide-standards/foundational/pmbok) as a backend developer.
 
 <img src="https://github-readme-stats.vercel.app/api?username=chucrutes" height="200"/>
 
