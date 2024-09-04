@@ -3,12 +3,11 @@
 - Bachelor in Software Engineering at Universidade Federal do Pampa - Alegrete *Campus*.
 - Currently, working as a volunteer at [PMST](https://github.com/ProjetoPM/PMST) (Project Management Software Tool).
 - I'm also a developer at [Teasy Solutions](https://github.com/teasy-solutions)
-- I have a greater interest at topics related to Database, Software Quality Management and Backend development.
+- I have a greater interest at topics related to Backend development (CI/CD, scalability), ethical hacking and software quality management.
 - I've experience in JavaScript TypeScript, PHP, Java. I have experience also in PostgresSql, MySql and NoSql.
 - I'm familiar with AWS services, serverless architecture and Docker.
 - I’ve worked on a Flutter project where I integrated a mobile payment terminal with Sitef.
 - 📚 Studying clean architecture and SOLID principles.
-- I'm interested in topics as CI/CD, scalability, ethical hacking.
 - Currently working on a project management software based on the [PMBOK](https://www.pmi.org/pmbok-guide-standards/foundational/pmbok) as a backend developer.
 
 <img src="https://github-readme-stats.vercel.app/api?username=chucrutes" height="200"/>
