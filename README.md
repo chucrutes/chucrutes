@@ -6,7 +6,7 @@
 - I have a greater interest at topics related to Backend development (CI/CD, scalability), ethical hacking and software quality management.
 - I've experience in JavaScript TypeScript, PHP, Java. I have experience also in PostgresSql, MySql and NoSql.
 - I'm familiar with AWS services, serverless architecture and Docker.
-- I’ve worked on a Flutter project where I integrated a mobile payment terminal with Sitef.
+- I’ve developed a Flutter project where I integrated a mobile payment terminal with Sitef.
 - 📚 Studying clean architecture and SOLID principles.
 - Currently working on a project management software based on the [PMBOK](https://www.pmi.org/pmbok-guide-standards/foundational/pmbok) as a backend developer.
 
