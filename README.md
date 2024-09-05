@@ -5,6 +5,7 @@
 - I'm also a developer at [Teasy Solutions](https://github.com/teasy-solutions)
 - I have a greater interest at topics related to Backend development (CI/CD, scalability), ethical hacking and software quality management.
 - I've experience in JavaScript TypeScript, PHP, Java. I have experience also in PostgresSql, MySql and NoSql.
+- Whatsapp bots, using Meta Api and Twilio.
 - I'm familiar with AWS services, serverless architecture and Docker.
 - I’ve developed a Flutter project where I integrated a mobile payment terminal with Sitef.
 - 📚 Studying clean architecture and SOLID principles.
