@@ -2,7 +2,6 @@
 
 - Bachelor in Software Engineering at Universidade Federal do Pampa - Alegrete *Campus*.
 - Currently, working as a volunteer at [PMST](https://github.com/ProjetoPM/PMST) (Project Management Software Tool).
-- I'm also a developer at [Teasy Solutions](https://github.com/teasy-solutions)
 - I have a greater interest at topics related to Backend development (CI/CD, scalability), ethical hacking and software quality management.
 - I've experience in JavaScript TypeScript, PHP, Java. I have experience also in PostgresSql, MySql and NoSql.
 - Whatsapp bots, using Meta Api and Twilio.
