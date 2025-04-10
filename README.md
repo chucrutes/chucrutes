@@ -8,7 +8,7 @@
 - I'm familiar with AWS services, serverless architecture and Docker.
 - I’ve developed a Flutter project where I integrated a mobile payment terminal with Sitef.
 - 📚 Studying clean architecture and SOLID principles.
-- Currently working on a project management software based on the [PMBOK](https://www.pmi.org/pmbok-guide-standards/foundational/pmbok) as a backend developer.
+- Currently working on a project management software [Silver Bullet](https://silverbullet.lesse.com.br) based on the [PMBOK](https://www.pmi.org/pmbok-guide-standards/foundational/pmbok) as a backend engineer.
 
 <img src="https://github-readme-stats.vercel.app/api?username=chucrutes" height="200"/>
 
