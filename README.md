@@ -16,7 +16,6 @@
 
 #### My Social Medias:
 - <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" height="30"/> - [@melothiagoo](https://www.instagram.com/melothiagoo/)
-- <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" height="30"/> - [@tmelo387](https://twitter.com/tmelo387)
 - <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" height="30"/> - [@thiagocmaraujo](https://www.linkedin.com/in/thiagocmaraujo/)
 
 <!--
